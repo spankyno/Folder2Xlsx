@@ -16,7 +16,7 @@ export function Footer() {
             blog.cottage627@passinbox.com
           </a>
           <a 
-            href="https://aitorblog.infinityfreeapp.com"
+            href="https://aitorsanchez.pages.dev/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-primary transition-colors"
